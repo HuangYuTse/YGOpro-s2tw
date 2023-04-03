@@ -8,8 +8,8 @@ YGOpro Simplified Chinese to Traditional Chinese
 此工具用來翻譯簡體中文版的YGOpro文字  
 步驟:  
 
-1. 選擇cards.cdb(卡牌料庫)
-2. 翻譯完成產生cardscards.cdb.cdb(備分原料庫)
+1. 選擇cards.cdb(卡牌資料庫)
+2. 翻譯完成產生cardscards.cdb.cdb(備分原資料庫)
 3. 選擇strings.conf(系統文字)
 4. 翻譯完成產生strings_backup.conf(備分原系統文字)
 
